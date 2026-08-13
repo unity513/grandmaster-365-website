@@ -201,7 +201,7 @@ svg {
   right: 0;
   bottom: 0;
   width: 58%;
-  background: url("assets/gm365-community-hero.webp") center / cover no-repeat;
+  background: url("/gm365-community-hero.webp") center / cover no-repeat;
 }
 
 .hero-media::before {
@@ -381,7 +381,7 @@ h1 em {
 
 .pillar-image {
   min-height: 205px;
-  background-image: url("assets/gm365-pillars-collage.webp");
+  background-image: url("/gm365-pillars-collage.webp");
   background-size: 200% 200%;
 }
 
